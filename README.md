@@ -12,6 +12,7 @@
 
 ## Digital Innovation One
   - Primeiros passos com .NET + C#
+  - Aceleração Global Dev #1
 
 ## Idiomas
   - EF SET Certifcate
