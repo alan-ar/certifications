@@ -1,6 +1,7 @@
 # 📜 Meus certificados.
 
 ## Rockseat
+  - DoWhile 2020
   - Bootcamp GoStack 12
   - Semana OmniStack 11
 
