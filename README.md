@@ -6,6 +6,7 @@
   - Semana OmniStack 11
 
 ## Power BI
+  - Power BI Week Maio/21
   - Power BI Week Fev/21
   - Power BI Week Out/20
   - Power BI Desktop Essencial
